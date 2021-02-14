@@ -1,0 +1,2300 @@
+{
+	"info": {
+		"entity": "Item",
+		"label": "Equipamento",
+		"name": "equipamento",
+		"path": "packs/equipamento.db",
+		"system": "forbidden-lands",
+		"package": "world",
+		"absPath": "C:\\Users\\didof\\Foundry\\Data\\worlds\\forbidden-lands\\packs\\equipamento.db"
+	},
+	"items": [
+		{
+			"_id": "CLvyfjtcOU6yBn6L",
+			"name": "#[CF_tempEntity]",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_owmzon8zub",
+					"path": "Armaduras#/CF_SEP/Escudos",
+					"color": "#000000",
+					"name": "Escudos",
+					"folderPath": [
+						"temp_d3698l3n63b",
+						"temp_1q3y25vtcez"
+					],
+					"children": [
+						"CLvyfjtcOU6yBn6L",
+						"KKSfjh2TvjIV9M0L",
+						"hxLyR7pZLbwcXEg2"
+					]
+				}
+			},
+			"effects": []
+		},
+		{
+			"_id": "F0NvsCdqrBktVbRq",
+			"name": "#[CF_tempEntity]",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vi2tkjlvpp8",
+					"path": "Armas#/CF_SEP/Distância",
+					"color": "#000000",
+					"name": "Distância",
+					"folderPath": [
+						"temp_6h7o1ipj0d",
+						"temp_5oj7fzmzzra"
+					],
+					"children": [
+						"F0NvsCdqrBktVbRq",
+						"qGj8MiqkwNBHtpcV",
+						"vUKrrIc66RUOJCI5",
+						"M5cRRvUmRQTDcWbM",
+						"IZNqhKZDMq2AFh7Q",
+						"c6YEKek3pC15L6RZ",
+						"ZM09QrhnLzWr4QXD",
+						"I8XDQy70hB4FxdXm",
+						"By8ZW7Ei9LvTsujd",
+						"2fSvcnMGZU9vDwfV"
+					]
+				}
+			},
+			"effects": []
+		},
+		{
+			"_id": "SGthcN0DTRY0NEHw",
+			"name": "#[CF_tempEntity]",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_1q3y25vtcez",
+					"path": "Armaduras#/CF_SEP",
+					"color": "#000000",
+					"name": "CF_SEP",
+					"folderPath": [
+						"temp_d3698l3n63b"
+					],
+					"children": [
+						"SGthcN0DTRY0NEHw"
+					]
+				}
+			},
+			"effects": []
+		},
+		{
+			"_id": "U8wX6Ohwy0XF3Dwj",
+			"name": "#[CF_tempEntity]",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_yzsohtmjsc8",
+					"path": "Armaduras#/CF_SEP/Elmos",
+					"color": "#000000",
+					"name": "Elmos",
+					"folderPath": [
+						"temp_d3698l3n63b",
+						"temp_1q3y25vtcez"
+					],
+					"children": [
+						"U8wX6Ohwy0XF3Dwj",
+						"NjjXwEJG0A8qO50V",
+						"yZ268rwG5hVWLlSi",
+						"UzDBRqyfks1u4czi",
+						"qC8N3HUMnkrkdTxY"
+					]
+				}
+			},
+			"effects": []
+		},
+		{
+			"_id": "WdiHOJjrnRi8MoHV",
+			"name": "#[CF_tempEntity]",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_d3698l3n63b",
+					"path": "Armaduras#",
+					"color": "#000000",
+					"name": "Armaduras#",
+					"folderPath": [],
+					"children": [
+						"WdiHOJjrnRi8MoHV"
+					]
+				}
+			},
+			"effects": []
+		},
+		{
+			"_id": "X8XNKCgTi1ROvubW",
+			"name": "#[CF_tempEntity]",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vh6qxi7wb3a",
+					"path": "Armaduras#/CF_SEP/Corpo",
+					"color": "#000000",
+					"name": "Corpo",
+					"folderPath": [
+						"temp_d3698l3n63b",
+						"temp_1q3y25vtcez"
+					],
+					"children": [
+						"X8XNKCgTi1ROvubW",
+						"DhIWEaZ5cIhSEF67",
+						"dzCQdalOv6SZ3eVz",
+						"BdHtkF6JgFFR6kPf",
+						"iBsA15OD1qTyz5Z4"
+					]
+				}
+			},
+			"effects": []
+		},
+		{
+			"_id": "lOKUVGkw9J2Thlot",
+			"name": "#[CF_tempEntity]",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6h7o1ipj0d",
+					"path": "Armas#",
+					"color": "#000000",
+					"name": "Armas#",
+					"folderPath": [],
+					"children": [
+						"lOKUVGkw9J2Thlot"
+					]
+				}
+			},
+			"effects": []
+		},
+		{
+			"_id": "le49F7nn8zp7BLKH",
+			"name": "#[CF_tempEntity]",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000",
+					"name": "Corpo-a-corpo",
+					"folderPath": [
+						"temp_6h7o1ipj0d",
+						"temp_5oj7fzmzzra"
+					],
+					"children": [
+						"le49F7nn8zp7BLKH",
+						"TwTMfivY6CQ2c1H3",
+						"1EGcZSEHanxpFP18",
+						"LgiYiTXSyTtm8mSk",
+						"NuaxRMWhlSNlKu1W",
+						"3eN2tR1ZmV7rf9uL",
+						"OV2l4II9dyKkQZaA",
+						"vpF8hmGmV7YYiz5q",
+						"EDhFUqhpBQTSkOoZ",
+						"p1m9iRvJaplSPwkd",
+						"Mt7nR1VWNsVVdXYa",
+						"G9CXTFpeiL7mVeAw",
+						"8T2Xf2H8Rgn8akQs",
+						"6ady0NaMa48LnOdn",
+						"UvChTFhEi41Zsz7X",
+						"fo2Ux6hK5nErvZsg",
+						"RPxtMLh998GiXRdz",
+						"OpjqTYRywXKO0xtc",
+						"LeZjIhhSGKAKj894",
+						"Rwd6IOJn374njJqG",
+						"vQE3kdQaJbHSXdEs",
+						"6vtoHRlkz6pwTUoD",
+						"aKLcif1Ax6Y7LQ81",
+						"ekgCg2TOAtxZeEoc",
+						"iz4wRPumoVogTzoz"
+					]
+				}
+			},
+			"effects": []
+		},
+		{
+			"_id": "vPNRZXlWrCcjaHmR",
+			"name": "#[CF_tempEntity]",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_5oj7fzmzzra",
+					"path": "Armas#/CF_SEP",
+					"color": "#000000",
+					"name": "CF_SEP",
+					"folderPath": [
+						"temp_6h7o1ipj0d"
+					],
+					"children": [
+						"vPNRZXlWrCcjaHmR"
+					]
+				}
+			},
+			"effects": []
+		},
+		{
+			"_id": "TwTMfivY6CQ2c1H3",
+			"name": "Adaga",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "1/2 Ferro, 1/2 Couro",
+				"time": "Um Dia",
+				"talent": "Ferreiro",
+				"tools": "Forja",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Leve, Cortante, Pontiaguda",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "2",
+				"supply": "",
+				"weight": "light",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "4EcT8sC6zo40CKTH"
+			},
+			"img": "compendium/images/TwTMfivY6CQ2c1H3/adaga.PNG",
+			"effects": []
+		},
+		{
+			"_id": "1EGcZSEHanxpFP18",
+			"name": "Alabarda",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Pesada, Pontiaguda, Cortante, Gancho",
+				"grip": "2h",
+				"range": "near",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "30",
+				"supply": "",
+				"weight": "heavy",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "eWKdrjInwIcKAwEY"
+			},
+			"img": "compendium/images/1EGcZSEHanxpFP18/alabarda.PNG",
+			"effects": []
+		},
+		{
+			"_id": "qGj8MiqkwNBHtpcV",
+			"name": "Arco Curto",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "ranged",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "2h",
+				"range": "short",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "6",
+				"supply": "",
+				"weight": "light",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vi2tkjlvpp8",
+					"path": "Armas#/CF_SEP/Distância",
+					"color": "#000000"
+				},
+				"importid": "I4JFjhGlmNOd8pQi"
+			},
+			"img": "compendium/images/qGj8MiqkwNBHtpcV/arco_curto.PNG",
+			"effects": []
+		},
+		{
+			"_id": "vUKrrIc66RUOJCI5",
+			"name": "Arco Longo",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 21
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "ranged",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "2h",
+				"range": "long",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "12",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vi2tkjlvpp8",
+					"path": "Armas#/CF_SEP/Distância",
+					"color": "#000000"
+				},
+				"importid": "pmSFW7Gpv19Sl52z"
+			},
+			"img": "compendium/images/vUKrrIc66RUOJCI5/arco_longo.PNG",
+			"effects": []
+		},
+		{
+			"_id": "DhIWEaZ5cIhSEF67",
+			"name": "Armadura de Placas",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "armor",
+			"data": {
+				"bonus": {
+					"value": 8,
+					"max": 81
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"cost": "80",
+				"part": "body",
+				"features": "Pesado. Modificador para Movimentação de -2",
+				"supply": "",
+				"weight": "heavy"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vh6qxi7wb3a",
+					"path": "Armaduras#/CF_SEP/Corpo",
+					"color": "#000000"
+				},
+				"importid": "yhc1Dsr08srSAWNm"
+			},
+			"img": "compendium/images/DhIWEaZ5cIhSEF67/armadura_de_placas.PNG",
+			"effects": []
+		},
+		{
+			"_id": "M5cRRvUmRQTDcWbM",
+			"name": "Azagaia",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 21
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "ranged",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "short",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "2",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vi2tkjlvpp8",
+					"path": "Armas#/CF_SEP/Distância",
+					"color": "#000000"
+				},
+				"importid": "TwakowkmT7fReTtN"
+			},
+			"img": "compendium/images/M5cRRvUmRQTDcWbM/azagaia.PNG",
+			"effects": []
+		},
+		{
+			"_id": "LgiYiTXSyTtm8mSk",
+			"name": "Bastão",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Esmagamento, Gancho, Aparar",
+				"grip": "2h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "hSDJVVCHZsvPE6Rr"
+			},
+			"img": "compendium/images/LgiYiTXSyTtm8mSk/bastao.PNG",
+			"effects": []
+		},
+		{
+			"_id": "IZNqhKZDMq2AFh7Q",
+			"name": "Besta Leve",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "ranged",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Recarregar é uma ação lenta",
+				"grip": "2h",
+				"range": "long",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "24",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vi2tkjlvpp8",
+					"path": "Armas#/CF_SEP/Distância",
+					"color": "#000000"
+				},
+				"importid": "4Ah72Ai6nbGVjqk5"
+			},
+			"img": "compendium/images/IZNqhKZDMq2AFh7Q/besta_leve.PNG",
+			"effects": []
+		},
+		{
+			"_id": "c6YEKek3pC15L6RZ",
+			"name": "Besta Pesada",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "ranged",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 3,
+				"features": "Pesada, Recarregar é uma ação lenta",
+				"grip": "2h",
+				"range": "long",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "40",
+				"supply": "",
+				"weight": "heavy",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vi2tkjlvpp8",
+					"path": "Armas#/CF_SEP/Distância",
+					"color": "#000000"
+				},
+				"importid": "4zPm8N6nBi3uFhhi"
+			},
+			"img": "compendium/images/c6YEKek3pC15L6RZ/besta_pesada.PNG",
+			"effects": []
+		},
+		{
+			"_id": "NjjXwEJG0A8qO50V",
+			"name": "Capuz de Couro Batido",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "armor",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"cost": "3",
+				"part": "head",
+				"features": "Leve",
+				"supply": "",
+				"weight": "light"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_yzsohtmjsc8",
+					"path": "Armaduras#/CF_SEP/Elmos",
+					"color": "#000000"
+				},
+				"importid": "96sVns3YYotznMh7"
+			},
+			"img": "compendium/images/NjjXwEJG0A8qO50V/capacete_couro_batido.PNG",
+			"effects": []
+		},
+		{
+			"_id": "NuaxRMWhlSNlKu1W",
+			"name": "Cimitarra",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Cortante, Pontiaguda, Aparar, Gancho",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "8",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "2D5c5FfBxNBflcqj"
+			},
+			"img": "compendium/images/NuaxRMWhlSNlKu1W/cimitarra.PNG",
+			"effects": []
+		},
+		{
+			"_id": "3eN2tR1ZmV7rf9uL",
+			"name": "Clava",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Pesada, Esmagamento",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "2",
+				"supply": "",
+				"weight": "heavy",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "IFoeCxsYwUCjbfZS"
+			},
+			"img": "compendium/images/3eN2tR1ZmV7rf9uL/clava.PNG",
+			"effects": []
+		},
+		{
+			"_id": "dzCQdalOv6SZ3eVz",
+			"name": "Cota de Malha",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "armor",
+			"data": {
+				"bonus": {
+					"value": 6,
+					"max": 6
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"cost": "24",
+				"part": "body",
+				"features": "Pesado. Valor de Armadura 3 contra flechas e Estocadas",
+				"supply": "",
+				"weight": "heavy"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vh6qxi7wb3a",
+					"path": "Armaduras#/CF_SEP/Corpo",
+					"color": "#000000"
+				},
+				"importid": "dgQCCq4piCvlfLfr"
+			},
+			"img": "compendium/images/dzCQdalOv6SZ3eVz/cota_de_malha.PNG",
+			"effects": []
+		},
+		{
+			"_id": "BdHtkF6JgFFR6kPf",
+			"name": "Couro",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "armor",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"cost": "4",
+				"part": "body",
+				"features": "Leve",
+				"supply": "",
+				"weight": "light"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vh6qxi7wb3a",
+					"path": "Armaduras#/CF_SEP/Corpo",
+					"color": "#000000"
+				},
+				"importid": "8EDJQQxbiP3KPXfB"
+			},
+			"img": "compendium/images/BdHtkF6JgFFR6kPf/couro.PNG",
+			"effects": []
+		},
+		{
+			"_id": "iBsA15OD1qTyz5Z4",
+			"name": "Couro Batido",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "armor",
+			"data": {
+				"bonus": {
+					"value": 3,
+					"max": 3
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"cost": "6",
+				"part": "body",
+				"features": "",
+				"supply": "",
+				"weight": "regular"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vh6qxi7wb3a",
+					"path": "Armaduras#/CF_SEP/Corpo",
+					"color": "#000000"
+				},
+				"importid": "5gNGVkPqLtuOrqmv"
+			},
+			"img": "compendium/images/iBsA15OD1qTyz5Z4/couro_batido.PNG",
+			"effects": []
+		},
+		{
+			"_id": "yZ268rwG5hVWLlSi",
+			"name": "Elmo Aberto",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "armor",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 21
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"cost": "8",
+				"part": "head",
+				"features": "Leve",
+				"supply": "",
+				"weight": "light"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_yzsohtmjsc8",
+					"path": "Armaduras#/CF_SEP/Elmos",
+					"color": "#000000"
+				},
+				"importid": "CsZbWX5PTScPbOgV"
+			},
+			"img": "compendium/images/yZ268rwG5hVWLlSi/elmo_aberto.PNG",
+			"effects": []
+		},
+		{
+			"_id": "UzDBRqyfks1u4czi",
+			"name": "Elmo Fechado",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "armor",
+			"data": {
+				"bonus": {
+					"value": 3,
+					"max": 3
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"cost": "18",
+				"part": "head",
+				"features": "",
+				"supply": "",
+				"weight": "regular"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_yzsohtmjsc8",
+					"path": "Armaduras#/CF_SEP/Elmos",
+					"color": "#000000"
+				},
+				"importid": "aQEU4CmWlJsn343x"
+			},
+			"img": "compendium/images/UzDBRqyfks1u4czi/elmo_fechado.PNG",
+			"effects": []
+		},
+		{
+			"_id": "KKSfjh2TvjIV9M0L",
+			"name": "Escudo Grande",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "armor",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"cost": "0",
+				"part": "shield",
+				"features": "",
+				"supply": "",
+				"weight": "regular"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_owmzon8zub",
+					"path": "Armaduras#/CF_SEP/Escudos",
+					"color": "#000000"
+				},
+				"importid": "onpf6eVCSlD8afWW"
+			},
+			"img": "compendium/images/KKSfjh2TvjIV9M0L/escudo_grande.PNG",
+			"effects": []
+		},
+		{
+			"_id": "hxLyR7pZLbwcXEg2",
+			"name": "Escudo Pequeno",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "armor",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"cost": "6",
+				"part": "shield",
+				"features": "Leve",
+				"supply": "",
+				"weight": "light"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_owmzon8zub",
+					"path": "Armaduras#/CF_SEP/Escudos",
+					"color": "#000000"
+				},
+				"importid": "lcyu7OlJdnjjtrmU"
+			},
+			"img": "compendium/images/hxLyR7pZLbwcXEg2/escudo_pequeno.PNG",
+			"effects": []
+		},
+		{
+			"_id": "OV2l4II9dyKkQZaA",
+			"name": "Espada Curta",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Cortante, Pontiaguda, Aparar",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "6",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "9ad00ZF147FhoDlm"
+			},
+			"img": "compendium/images/OV2l4II9dyKkQZaA/espada_curta.PNG",
+			"effects": []
+		},
+		{
+			"_id": "vpF8hmGmV7YYiz5q",
+			"name": "Espada Larga",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Cortante, Pontiaguda, Aparar",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "10",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "nYvwktbiFfNR4XWN"
+			},
+			"img": "compendium/images/vpF8hmGmV7YYiz5q/espada_larga.PNG",
+			"effects": []
+		},
+		{
+			"_id": "EDhFUqhpBQTSkOoZ",
+			"name": "Espada Longa",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Pesada, Cortante, Pontiaguda, Aparar",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "18",
+				"supply": "",
+				"weight": "heavy",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "TS6NVfCerdDx89Wf"
+			},
+			"img": "compendium/images/EDhFUqhpBQTSkOoZ/espada_longa.PNG",
+			"effects": []
+		},
+		{
+			"_id": "p1m9iRvJaplSPwkd",
+			"name": "Faca",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "1/2 Ferro, 1/2 Madeira",
+				"time": "Um quarto de dia",
+				"talent": "Ferreiro",
+				"tools": "Forja",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Leve, Pontiaguda",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "1",
+				"supply": "",
+				"weight": "light",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "cX31bCgDbKXYnmag"
+			},
+			"img": "compendium/images/p1m9iRvJaplSPwkd/faca.PNG",
+			"effects": []
+		},
+		{
+			"_id": "ZM09QrhnLzWr4QXD",
+			"name": "Faca de Arremesso",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "ranged",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Leve",
+				"grip": "1h",
+				"range": "near",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vi2tkjlvpp8",
+					"path": "Armas#/CF_SEP/Distância",
+					"color": "#000000"
+				},
+				"importid": "9C0uAQSDIWA6EEjd"
+			},
+			"img": "compendium/images/ZM09QrhnLzWr4QXD/faca_de_arremesso.PNG",
+			"effects": []
+		},
+		{
+			"_id": "Mt7nR1VWNsVVdXYa",
+			"name": "Facão",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Cortante, Pontiaguda",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "4",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "67BGxG1cklMsBLpI"
+			},
+			"img": "compendium/images/Mt7nR1VWNsVVdXYa/facao.PNG",
+			"effects": []
+		},
+		{
+			"_id": "I8XDQy70hB4FxdXm",
+			"name": "Funda",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Leve",
+				"grip": "1h",
+				"range": "short",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "1",
+				"supply": "",
+				"weight": "light",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vi2tkjlvpp8",
+					"path": "Armas#/CF_SEP/Distância",
+					"color": "#000000"
+				},
+				"importid": "vFCHZW8akNl3N0tN"
+			},
+			"img": "compendium/images/I8XDQy70hB4FxdXm/funda.PNG",
+			"effects": []
+		},
+		{
+			"_id": "qC8N3HUMnkrkdTxY",
+			"name": "Grande Elmo",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "armor",
+			"data": {
+				"bonus": {
+					"value": 4,
+					"max": 4
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"cost": "30",
+				"part": "head",
+				"features": "Modificador para Patrulha de -2",
+				"supply": "",
+				"weight": "regular"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_yzsohtmjsc8",
+					"path": "Armaduras#/CF_SEP/Elmos",
+					"color": "#000000"
+				},
+				"importid": "TlxVv5snPisI80Xk"
+			},
+			"img": "compendium/images/qC8N3HUMnkrkdTxY/grande_elmo.PNG",
+			"effects": []
+		},
+		{
+			"_id": "G9CXTFpeiL7mVeAw",
+			"name": "Lança Curta",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Pontiaguda",
+				"grip": "1h",
+				"range": "near",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "2",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "JIhwAaaOT4Garcz9"
+			},
+			"img": "compendium/images/G9CXTFpeiL7mVeAw/lanca_curta.png",
+			"effects": []
+		},
+		{
+			"_id": "8T2Xf2H8Rgn8akQs",
+			"name": "Lança Longa",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 21
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Pontiaguda",
+				"grip": "2h",
+				"range": "near",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "4",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "vntmUiON5F0nodfB"
+			},
+			"img": "compendium/images/8T2Xf2H8Rgn8akQs/lanca_longa.PNG",
+			"effects": []
+		},
+		{
+			"_id": "6ady0NaMa48LnOdn",
+			"name": "Maça",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "4",
+				"supply": "",
+				"weight": "regular",
+				"effect": "Esmagamento"
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "TpySQpKobQjqAs7c"
+			},
+			"img": "compendium/images/6ady0NaMa48LnOdn/maca.PNG",
+			"effects": []
+		},
+		{
+			"_id": "UvChTFhEi41Zsz7X",
+			"name": "Maça Estrela",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Esmagamento",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "8",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "bZii4RyowH1gsrMq"
+			},
+			"img": "compendium/images/UvChTFhEi41Zsz7X/maca_estrela.PNG",
+			"effects": []
+		},
+		{
+			"_id": "fo2Ux6hK5nErvZsg",
+			"name": "Machadinha",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Cortante, Gancho",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "2",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "sKcLS9fzBJL1xS55"
+			},
+			"img": "compendium/images/fo2Ux6hK5nErvZsg/machadinha.PNG",
+			"effects": []
+		},
+		{
+			"_id": "By8ZW7Ei9LvTsujd",
+			"name": "Machado de Arremesso",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "ranged",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "",
+				"grip": "1h",
+				"range": "near",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "2",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vi2tkjlvpp8",
+					"path": "Armas#/CF_SEP/Distância",
+					"color": "#000000"
+				},
+				"importid": "aBuEWsEw9A7yCPSy"
+			},
+			"img": "compendium/images/By8ZW7Ei9LvTsujd/machado_de_arremesso.PNG",
+			"effects": []
+		},
+		{
+			"_id": "RPxtMLh998GiXRdz",
+			"name": "Machado de Batalha",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": null,
+				"damage": 2,
+				"features": "Pesada, Cortante, Gancho",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "6",
+				"supply": "",
+				"weight": "heavy",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "k3GsBzQwQqzsaO0Y"
+			},
+			"img": "compendium/images/RPxtMLh998GiXRdz/machado_de_batalha.PNG",
+			"effects": []
+		},
+		{
+			"_id": "OpjqTYRywXKO0xtc",
+			"name": "Machado de Duas Mãos",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 3,
+				"features": "Pesada, Cortante, Gancho",
+				"grip": "2h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "24",
+				"supply": "",
+				"weight": "heavy",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "GMxiCxKGgWwRYz9r"
+			},
+			"img": "compendium/images/OpjqTYRywXKO0xtc/machado_de_duas_maos.PNG",
+			"effects": []
+		},
+		{
+			"_id": "LeZjIhhSGKAKj894",
+			"name": "Malho",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 3,
+				"features": "Pesada, Esmagamento, Gancho",
+				"grip": "2h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "heavy",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "1CAw7QPi8e02y6ZF"
+			},
+			"img": "compendium/images/LeZjIhhSGKAKj894/malho.png",
+			"effects": []
+		},
+		{
+			"_id": "Rwd6IOJn374njJqG",
+			"name": "Mangual",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Esmagamento",
+				"grip": "1h",
+				"range": "near",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "16",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "XCv5y9u2SrLzdkCj"
+			},
+			"img": "compendium/images/Rwd6IOJn374njJqG/mangual.PNG",
+			"effects": []
+		},
+		{
+			"_id": "vQE3kdQaJbHSXdEs",
+			"name": "Martelo de Guerra",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Esmagamento, Gancho",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "12",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "9dTXNcz1rWWbDu0X"
+			},
+			"img": "compendium/images/vQE3kdQaJbHSXdEs/martelo_de_guerra.png",
+			"effects": []
+		},
+		{
+			"_id": "6vtoHRlkz6pwTUoD",
+			"name": "Montante",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 3,
+				"features": "Pesada, Cortante, Pontiaguda, Aparar",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "40",
+				"supply": "",
+				"weight": "heavy",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "WVng3xk2NT3D3ieP"
+			},
+			"img": "compendium/images/6vtoHRlkz6pwTUoD/montante.PNG",
+			"effects": []
+		},
+		{
+			"_id": "2fSvcnMGZU9vDwfV",
+			"name": "Pedra",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 0,
+					"max": 0
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "ranged",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Leve",
+				"grip": "1h",
+				"range": "near",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "",
+				"supply": "",
+				"weight": "light",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_vi2tkjlvpp8",
+					"path": "Armas#/CF_SEP/Distância",
+					"color": "#000000"
+				},
+				"importid": "5hNavMFfvgJTeWlO"
+			},
+			"img": "compendium/images/2fSvcnMGZU9vDwfV/pedra.PNG",
+			"effects": []
+		},
+		{
+			"_id": "aKLcif1Ax6Y7LQ81",
+			"name": "Pique",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 2,
+					"max": 2
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Pesada, Pontiaguda",
+				"grip": "2h",
+				"range": "near",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "12",
+				"supply": "",
+				"weight": "heavy",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "iPGemdVYnLRA1eJn"
+			},
+			"img": "compendium/images/aKLcif1Ax6Y7LQ81/pique.PNG",
+			"effects": []
+		},
+		{
+			"_id": "ekgCg2TOAtxZeEoc",
+			"name": "Porrete",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 1,
+				"features": "Esmagamento",
+				"grip": "1h",
+				"range": "arm",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "1",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "MkALrWMRCcAA9bAX"
+			},
+			"img": "compendium/images/ekgCg2TOAtxZeEoc/porrete.PNG",
+			"effects": []
+		},
+		{
+			"_id": "iz4wRPumoVogTzoz",
+			"name": "Tridente",
+			"permission": {
+				"default": 0,
+				"QIBkqMvitFzAuIIu": 3
+			},
+			"type": "weapon",
+			"data": {
+				"bonus": {
+					"value": 1,
+					"max": 1
+				},
+				"rawMaterials": "",
+				"time": "",
+				"talent": "",
+				"tools": "",
+				"rollModifiers": {},
+				"category": "melee",
+				"artifactBonus": "",
+				"skillBonus": "",
+				"damage": 2,
+				"features": "Pontiaguda, Gancho",
+				"grip": "2h",
+				"range": "near",
+				"drawback": "",
+				"description": "",
+				"appearance": "",
+				"cost": "6",
+				"supply": "",
+				"weight": "regular",
+				"effect": ""
+			},
+			"flags": {
+				"cf": {
+					"id": "temp_6he1ckhiwzm",
+					"path": "Armas#/CF_SEP/Corpo-a-corpo",
+					"color": "#000000"
+				},
+				"importid": "Tnx5m8mbmPDIujLx"
+			},
+			"img": "compendium/images/iz4wRPumoVogTzoz/tridente.png",
+			"effects": []
+		}
+	]
+}

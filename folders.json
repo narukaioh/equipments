@@ -1,0 +1,563 @@
+[
+	{
+		"_id": "3xjFurIjP45HYOur",
+		"name": "_fql_quests",
+		"type": "JournalEntry",
+		"sort": 400000,
+		"flags": {
+			"importid": "3xjFurIjP45HYOur"
+		},
+		"parent": "aLMKjr6tYV2TrkNO",
+		"sorting": "a"
+	},
+	{
+		"_id": "k1KGt3lWdUhAlfLy",
+		"name": "_fql_quests",
+		"type": "JournalEntry",
+		"sort": null,
+		"flags": {
+			"importid": "k1KGt3lWdUhAlfLy"
+		},
+		"parent": "mWfBpCcpxrrKydZM",
+		"sorting": "a"
+	},
+	{
+		"_id": "nBqWnmm20viRXvL0",
+		"name": "_fql_quests",
+		"type": "JournalEntry",
+		"sort": 500000,
+		"flags": {
+			"importid": "nBqWnmm20viRXvL0"
+		},
+		"parent": "Da1RpJqvNE77c265",
+		"sorting": "a"
+	},
+	{
+		"_id": "R2XeuOXsKgNkH2rN",
+		"name": "Adventure 1611268235449",
+		"type": "RollTable",
+		"sort": null,
+		"flags": {
+			"importid": "R2XeuOXsKgNkH2rN"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": "#FF0000"
+	},
+	{
+		"_id": "aLMKjr6tYV2TrkNO",
+		"name": "Adventure 1611268235449",
+		"type": "JournalEntry",
+		"sort": 300000,
+		"flags": {
+			"importid": "aLMKjr6tYV2TrkNO"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": "#FF0000"
+	},
+	{
+		"_id": "9hYkmXkjAreYojZ9",
+		"name": "Áreas de Aventura",
+		"type": "JournalEntry",
+		"sort": 200000,
+		"flags": {
+			"importid": "9hYkmXkjAreYojZ9"
+		},
+		"parent": "38qdKXbTjc5zapVK",
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "0GX4FttTLlWm98T4",
+		"name": "Armaduras",
+		"type": "Item",
+		"sort": 2100000,
+		"flags": {
+			"importid": "0GX4FttTLlWm98T4"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "x5FrcgadpuSXdz1Q",
+		"name": "Armas",
+		"type": "Item",
+		"sort": 2500000,
+		"flags": {
+			"importid": "x5FrcgadpuSXdz1Q"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "AhOfGlybU595Lu20",
+		"name": "As Covas",
+		"type": "JournalEntry",
+		"sort": 100000,
+		"flags": {
+			"importid": "AhOfGlybU595Lu20"
+		},
+		"parent": "mWfBpCcpxrrKydZM",
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "xXHHIZiOmtp9wyZr",
+		"name": "As Covas",
+		"type": "JournalEntry",
+		"sort": 100000,
+		"flags": {
+			"importid": "xXHHIZiOmtp9wyZr"
+		},
+		"parent": "Da1RpJqvNE77c265",
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "ZjWFpLmnnMQSe0IV",
+		"name": "Ascendência",
+		"type": "Item",
+		"sort": 900000,
+		"flags": {
+			"importid": "ZjWFpLmnnMQSe0IV"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "MXz4EvteoDkhMVjV",
+		"name": "Caçador",
+		"type": "Item",
+		"sort": 1000000,
+		"flags": {
+			"importid": "MXz4EvteoDkhMVjV"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "dnENTFMagMJE12ux",
+		"name": "Canção da Pedra",
+		"type": "Item",
+		"sort": 400000,
+		"flags": {
+			"importid": "dnENTFMagMJE12ux"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "9H3mfCSlpG0DIEQ7",
+		"name": "Consciência",
+		"type": "Item",
+		"sort": 200000,
+		"flags": {
+			"importid": "9H3mfCSlpG0DIEQ7"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "UiRwljTGQbbC2Uoy",
+		"name": "Corpo",
+		"type": "Item",
+		"sort": 2200000,
+		"flags": {
+			"importid": "UiRwljTGQbbC2Uoy"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "Y5V2ot18J0CxtGsf",
+		"name": "Corpo-a-corpo",
+		"type": "Item",
+		"sort": 2600000,
+		"flags": {
+			"importid": "Y5V2ot18J0CxtGsf"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "13KJY9hKwTYGHRSW",
+		"name": "covas",
+		"type": "Actor",
+		"sort": 300000,
+		"flags": {
+			"importid": "13KJY9hKwTYGHRSW"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": "#FF0000"
+	},
+	{
+		"_id": "2DZ0pN3XwLWckGuo",
+		"name": "covas",
+		"type": "Scene",
+		"sort": null,
+		"flags": {
+			"importid": "2DZ0pN3XwLWckGuo"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": "#FF0000"
+	},
+	{
+		"_id": "Da1RpJqvNE77c265",
+		"name": "covas",
+		"type": "JournalEntry",
+		"sort": 400000,
+		"flags": {
+			"importid": "Da1RpJqvNE77c265"
+		},
+		"parent": "aLMKjr6tYV2TrkNO",
+		"sorting": "a",
+		"color": "#FF0000"
+	},
+	{
+		"_id": "mWfBpCcpxrrKydZM",
+		"name": "covas",
+		"type": "JournalEntry",
+		"sort": null,
+		"flags": {
+			"importid": "mWfBpCcpxrrKydZM"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": "#FF0000"
+	},
+	{
+		"_id": "B9LCy0am2mZCj0fd",
+		"name": "Cura",
+		"type": "Item",
+		"sort": 500000,
+		"flags": {
+			"importid": "B9LCy0am2mZCj0fd"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "1J8yF8COyArJX39y",
+		"name": "Distância",
+		"type": "Item",
+		"sort": 2700000,
+		"flags": {
+			"importid": "1J8yF8COyArJX39y"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "ZwhI0NJ1PhCmajQ6",
+		"name": "Druida",
+		"type": "Item",
+		"sort": 1100000,
+		"flags": {
+			"importid": "ZwhI0NJ1PhCmajQ6"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "mI5WcaPddCH3YLz2",
+		"name": "Elmos",
+		"type": "Item",
+		"sort": 2300000,
+		"flags": {
+			"importid": "mI5WcaPddCH3YLz2"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "hokV6Ah6yF4SurN6",
+		"name": "Escudos",
+		"type": "Item",
+		"sort": 2400000,
+		"flags": {
+			"importid": "hokV6Ah6yF4SurN6"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "38qdKXbTjc5zapVK",
+		"name": "FBL",
+		"type": "JournalEntry",
+		"sort": 100000,
+		"flags": {
+			"importid": "38qdKXbTjc5zapVK"
+		},
+		"parent": "aLMKjr6tYV2TrkNO",
+		"sorting": "a",
+		"color": "#FF0000"
+	},
+	{
+		"_id": "DquwqRrmfnrsUsqC",
+		"name": "FBL",
+		"type": "Item",
+		"sort": 2000000,
+		"flags": {
+			"importid": "DquwqRrmfnrsUsqC"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": "#FF0000"
+	},
+	{
+		"_id": "rSSoQBer61EZ0GU0",
+		"name": "Feiticeiro",
+		"type": "Item",
+		"sort": 1200000,
+		"flags": {
+			"importid": "rSSoQBer61EZ0GU0"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "qQ0j9FnV7Dgte02c",
+		"name": "Gerais",
+		"type": "Item",
+		"sort": 1300000,
+		"flags": {
+			"importid": "qQ0j9FnV7Dgte02c"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "H604xn9knHxib5tw",
+		"name": "Ginete",
+		"type": "Item",
+		"sort": 1400000,
+		"flags": {
+			"importid": "H604xn9knHxib5tw"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "8TYdw7wBG762dklv",
+		"name": "Guerreiro",
+		"type": "Item",
+		"sort": 1500000,
+		"flags": {
+			"importid": "8TYdw7wBG762dklv"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "H1i90DbGjWdmFEtJ",
+		"name": "Jogadores",
+		"type": "Actor",
+		"sort": null,
+		"flags": {
+			"importid": "H1i90DbGjWdmFEtJ"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": "#0d1dfd"
+	},
+	{
+		"_id": "EVeFouzMAgFqMnXJ",
+		"name": "Ladino",
+		"type": "Item",
+		"sort": 1600000,
+		"flags": {
+			"importid": "EVeFouzMAgFqMnXJ"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "Raeae2T1KjjhmI9K",
+		"name": "Magia da Morte",
+		"type": "Item",
+		"sort": 600000,
+		"flags": {
+			"importid": "Raeae2T1KjjhmI9K"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "JpbzvzJqYNuTSV4p",
+		"name": "Magia de Sangue",
+		"type": "Item",
+		"sort": 500000,
+		"flags": {
+			"importid": "JpbzvzJqYNuTSV4p"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "19wXPWRiVJVScRet",
+		"name": "Magias",
+		"type": "Item",
+		"sort": 2800000,
+		"flags": {
+			"importid": "19wXPWRiVJVScRet"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "DhJxmmtm7349UeJo",
+		"name": "Magias Gerais",
+		"type": "Item",
+		"sort": 700000,
+		"flags": {
+			"importid": "DhJxmmtm7349UeJo"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "pW00QSEsj4Arzk0F",
+		"name": "Mascate",
+		"type": "Item",
+		"sort": 1700000,
+		"flags": {
+			"importid": "pW00QSEsj4Arzk0F"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "tmtnG2GWWXrtmzeU",
+		"name": "Menestrel",
+		"type": "Item",
+		"sort": 1800000,
+		"flags": {
+			"importid": "tmtnG2GWWXrtmzeU"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "E2QPI0odnyd5J6DA",
+		"name": "Metamorfose",
+		"type": "Item",
+		"sort": 100000,
+		"flags": {
+			"importid": "E2QPI0odnyd5J6DA"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "fps6QtEIRrBoTYmG",
+		"name": "Monstros",
+		"type": "Actor",
+		"sort": null,
+		"flags": {
+			"importid": "fps6QtEIRrBoTYmG"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": "#ff0000"
+	},
+	{
+		"_id": "GoFc3pFwrtk1gjbC",
+		"name": "NPCs",
+		"type": "Actor",
+		"sort": 100000,
+		"flags": {
+			"importid": "GoFc3pFwrtk1gjbC"
+		},
+		"parent": "13KJY9hKwTYGHRSW",
+		"sorting": "a",
+		"color": "#178401"
+	},
+	{
+		"_id": "Ucpts5M9SuoX3LZR",
+		"name": "NPCs",
+		"type": "Actor",
+		"sort": 100000,
+		"flags": {
+			"importid": "Ucpts5M9SuoX3LZR"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": "#178401"
+	},
+	{
+		"_id": "Bociar2xSspVK4xL",
+		"name": "Regras",
+		"type": "JournalEntry",
+		"sort": 200000,
+		"flags": {
+			"importid": "Bociar2xSspVK4xL"
+		},
+		"parent": "mWfBpCcpxrrKydZM",
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "RPY284GHYUORIdRq",
+		"name": "Regras",
+		"type": "JournalEntry",
+		"sort": 200000,
+		"flags": {
+			"importid": "RPY284GHYUORIdRq"
+		},
+		"parent": "Da1RpJqvNE77c265",
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "hhFmw2tUWQvRYiyi",
+		"name": "Simbolismo",
+		"type": "Item",
+		"sort": 300000,
+		"flags": {
+			"importid": "hhFmw2tUWQvRYiyi"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	},
+	{
+		"_id": "fa8McDSQ7140g46R",
+		"name": "Talentos",
+		"type": "Item",
+		"sort": 800000,
+		"flags": {
+			"importid": "fa8McDSQ7140g46R"
+		},
+		"parent": null,
+		"sorting": "a",
+		"color": ""
+	}
+]
